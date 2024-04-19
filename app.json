@@ -12,14 +12,17 @@
         },
         "BOT_TOKEN": {
             "description": "Your bot token.",
+            "value": "6905685890:AAFoiXArAMrw_Nws-AW9Ngcaq0YDin0o3PY",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
+            "value": "25163484",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
+            "value": "145bcbc424d1c1ffe04f3e607ea55c9a",
             "required": true
         },
         "CHANNELS": {
@@ -28,6 +31,7 @@
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "value": "6302921275",
             "required": true
         },
         "SHORT_API": {
@@ -44,7 +48,8 @@
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
-            "required": true                              
+            "value": "-1002019005041",
+            "required": true
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
@@ -62,6 +67,7 @@
         },
         "DATABASE_URL": {
             "description": "mongoDB URI.",
+            "value": "mongodb+srv://n2movies:n2movies@cluster0.d6tivfq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         },
         "DATABASE_NAME": {
