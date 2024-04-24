@@ -36,10 +36,12 @@
         },
         "SHORT_API": {
             "description": "Api Key Of shortner You Use.",
+            "value": "1dc89a78514e863bc2480e70b4c6d10d21a7db17",
             "required": false
         },
         "SHORT_URL": {
             "description": "Url of shortner site you use.",
+            "value": "https://gplinks.com",
             "required": false
         },
         "PICS": {
