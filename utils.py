@@ -140,7 +140,7 @@ def list_to_str(k):
 __repo__ = "https://github.com/MandaliWala/PROFESSOR-BOT"
 __version__ = "PROFESSOR-BOT ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
-__copyright__ = "Copyright (C) 2023-present MrMKN <https://github.com/MandaliWala>""
+__copyright__ = "Copyright (C) 2023-present MrMKN <https://github.com/MandaliWala>"
 
 async def search_gagala(text):
     usr_agent = {
