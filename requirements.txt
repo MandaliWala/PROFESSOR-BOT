@@ -34,7 +34,7 @@ wheel
 ujson
 wget
 pytz
-
+opencv-python
 
 
 
